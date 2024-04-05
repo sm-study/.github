@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+This is an organization to try out for learning what I have seen in books and articles
 
 <!--
 
